@@ -1,4 +1,4 @@
-# Graphql SpringBoot with wookies
+# Sample Graphql SpringBoot with Wookies
 
 Build the graphql.wookies project
 
