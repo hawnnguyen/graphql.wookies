@@ -1,6 +1,6 @@
-# graphql.wookies
+# Graphql SpringBoot with wookies
 
-Build the graphql.wookies
+Build the graphql.wookies project
 
 `mvn clean`
 
